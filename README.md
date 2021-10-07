@@ -13,3 +13,5 @@ will also generate nitro classic codes,
 will generate codes faster,
 and much more
 
+proof tool works:
+https://media.discordapp.net/attachments/822505440503791706/893966252928802836/unknown.png
