@@ -6,7 +6,7 @@ Features
 Easy to Use,
 generates 1000+ codes per hour,
 since its an exe, no additional programs are required,
-gauaranteed to generate a code within 20 mins of running,
+guaranteed to generate a code within 20 mins of running,
 
 additional features coming soon:
 proxy support,
