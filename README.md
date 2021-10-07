@@ -8,7 +8,8 @@ since its an exe, no additional programs are required
 gauaranteed to generate a code within 20 mins of running
 
 additional features coming soon:
-proxy support
-will also generate nitro classic codes
-will generate codes faster
+proxy support,
+will also generate nitro classic codes,
+will generate codes faster,
+and much more
 
